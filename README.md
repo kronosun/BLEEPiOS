@@ -11,6 +11,7 @@ Q: How to do a simple Hello World?
 A (This is a long one!):
 * OK so first install *The GNU Tools for ARM Embeded Devices* (just google for "arm gnu gcc free download")
 * Next find a target IPA (perferably a legal one, *https://iosninja.io/ipa-library* for example)
+ * *I AM NOT A LEGAL EXPERT*
 * Ok so now you need to change it to a ZIP file, and extract the binary.
 * Copy binary to working directory, along with BLEEPiOS files. (Should be just the apps name, in Delta's case. I used Delta.)
   * Change the name, but remember the default name.
