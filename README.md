@@ -29,4 +29,4 @@ A: About 2.05-2.1 months of dev. time over the span of 3-4 years.
 
 
 Q: Can I use this for my own projects?
-A: *Sure, ****just follow the license!***
+A: *Sure,* ***just follow the license!***
